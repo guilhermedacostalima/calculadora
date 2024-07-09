@@ -1,0 +1,50 @@
+body {
+        background-color: rgb(70, 142, 236);
+        font:  normal 15pt Arial;
+}
+
+#gerartabuada {
+    position: absolute;
+    top: 20.7%;
+    left: 60%;
+    font-size: 15px;
+}
+#resultado {
+    padding: 15px;
+    margin-top: -19%;
+    margin-left: 30%;
+    font-size: 17px;
+}
+header{
+    color: aliceblue;
+    text-align: center;
+}
+#resultado {
+    position: absolute;
+    right: 50%;
+}
+#numero1 {
+        position: absolute;
+        right: 40.5%;
+}
+#Dados {
+        padding: 15px;
+        padding-bottom: 300px;
+
+}
+
+section{
+    background-color: rgb(247, 247, 247);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    
+}
+
+footer {
+color: aliceblue;
+text-align: center;
+font-style: italic;
+}
